@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl : 'zaply.azurewebsites.net/api',
+  apiUrl : 'https://zaply.azurewebsites.net/api',
 };
